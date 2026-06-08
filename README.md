@@ -34,9 +34,6 @@ The system provides a complete environment for managing banking daily operations
 - Architecture: Multi-layered headers (Classes-based)
 - Storage: File Handling (Text/Data files)
 
-## 📸 Screenshots
-*(Add your screenshots here to showcase the UI)*
-
 ## 💻 Installation & Setup
 1. Clone the repository:
    `bash
