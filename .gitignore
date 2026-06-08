@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled files
+*.exe
+*.obj
+*.dll
+*.pdb
+
+# Temporary files
+*.log
+*.tmp
